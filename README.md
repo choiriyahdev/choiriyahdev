@@ -3,10 +3,10 @@
 
 <h1 align="center"> Welcome</h1>
 
-<h4 align="center"> :earth_africa: hy , Im blockchain's enthusiasts  :earth_africa:</h1>
+<h4 align="center"> :earth_africa: hy , Im blockchain's enthusiast  :earth_africa:</h1>
 
-Experience in validation and programming - more than 3 years. In the crypto industry since 2019. 
-We work with all popular and new/unique blockchains. We help projects develop in the early stages, as well as support the finished products of projects.
+Environmentalist, Learner, and Egalitarian. Not a pessimist who sees the difficulty in every situation rather an optimist. Loves to explore.
+We work with all popular and new/unique blockchains.
  
  <div align="center">
   <div style="display: flex; align-items: flex-start;">
